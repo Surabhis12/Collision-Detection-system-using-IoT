@@ -7,7 +7,7 @@ The system will be IoT based and will have five components i.e Arduino Board, GS
 
 
 
-	Software Requirement:
+	System Requirement:
 HARDWARE REQUIREMENTS:
 •	ARDUINO UNO
 
