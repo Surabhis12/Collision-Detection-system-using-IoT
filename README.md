@@ -10,6 +10,7 @@ The system will be IoT based and will have five components i.e Arduino Board, GS
 SYSTEM REQUIREMEMTS:
 
 HARDWARE REQUIREMENTS:
+
 •	ARDUINO UNO
 •	BUZZER
 •	GPS-6M
@@ -18,6 +19,7 @@ HARDWARE REQUIREMENTS:
 
 
 SOFTWARE REQUIREMENTS:
+
 •	ARDUINO STUDIO
 •	PROGRAMMING LANGUAGE: C
 
